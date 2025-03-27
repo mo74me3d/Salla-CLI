@@ -110,7 +110,8 @@ Available Commands:
   salla theme create               Create a new Salla Store Theme                    -
   salla theme preview              Build, deploy, and preview the theme locally      -
   salla theme list                 List all your Salla Store Themes                  -
-  salla theme delete               Delete an existing Salla Store Theme              -
+  salla theme delete               Delete a
+n existing Salla Store Theme              -
   salla theme publish              Submit Theme for publishing approval              -
 ```
 
